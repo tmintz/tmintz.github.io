@@ -1,2 +1,6 @@
 theme: minima
 markdown: kramdown
+
+# Minima: custom header links
+header_pages:
+  - _pages/frontpage.md
