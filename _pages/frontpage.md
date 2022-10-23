@@ -1,8 +1,7 @@
 ---
 permalink: /
-# layout: home
-layout: Phil246
-title: Test
+layout: home
+title: PHIL246
 list_title: Home
 ---
 
