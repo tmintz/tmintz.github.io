@@ -1,8 +1,9 @@
 ---
 permalink: /
-layout: home
+# layout: home
+layout: Phil246
 title: Test
-list_title: Test
+list_title: Home
 ---
 
 # What have we here?
